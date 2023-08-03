@@ -2,8 +2,9 @@
 
 
 
-- 🔭 Sou apaixonado por tecnologia e desenvolvimento. 
-- 🎓Atualmente estou cursando Sistemas de Informação na UNIFEI - (Universidade Federal de Itajubá).
+- 🔭 Sou apaixonado por tecnologia e desenvolvimento.
+- 💻 Tech Lead e Desenvolvedor Front-End.
+- 🎓 Atualmente estou cursando Sistemas de Informação na UNIFEI - (Universidade Federal de Itajubá).
 - 🌱 Constantemente aprendendo e evoluindo minhas habilidades em desenvolvimento (ReactJS, Typescript e NodeJS). 💻
   ##
 <div align="center">
